@@ -1,2 +1,2 @@
 # Niwrek
-This repository is handsome and humble.
+This repository is for the students who want to learn about it.
